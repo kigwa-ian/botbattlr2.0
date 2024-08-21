@@ -1,0 +1,35 @@
+.your-bot-army {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .bot-in-army {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+  }
+  
+  .bot-in-army img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .bot-in-army button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #dc3545;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .bot-in-army button:hover {
+    background-color: #c82333;
+  }
+  
